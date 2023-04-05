@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\ANALIZADOR LEXICO\ANALIZADOR LEXICO\obj\Debug\ANALIZADOR LEXICO.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ANALIZADOR LEXICO\ANALIZADOR LEXICO\obj\Debug\ANALIZADOR LEXICO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ANALIZADOR LEXICO\ANALIZADOR LEXICO\bin\Debug\ANALIZADOR LEXICO.exe.config
+C:\Users\Usuario\source\repos\ANALIZADOR LEXICO\ANALIZADOR LEXICO\bin\Debug\ANALIZADOR LEXICO.exe
+C:\Users\Usuario\source\repos\ANALIZADOR LEXICO\ANALIZADOR LEXICO\bin\Debug\ANALIZADOR LEXICO.pdb
+C:\Users\Usuario\source\repos\ANALIZADOR LEXICO\ANALIZADOR LEXICO\obj\Debug\ANALIZADOR LEXICO.exe
+C:\Users\Usuario\source\repos\ANALIZADOR LEXICO\ANALIZADOR LEXICO\obj\Debug\ANALIZADOR LEXICO.pdb
